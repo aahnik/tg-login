@@ -2,10 +2,6 @@
 
 A command line tool to login into Telegram with user or bot accounts.
 
-<!-- ## Why
-
-Why the need of a seperate tool like `tg-login` ? -->
-
 ## Installation
 
 ```shell
@@ -30,10 +26,14 @@ Options:
   --help            Show this message and exit.
 ```
 
-<!-- The `API_ID` ,`API_HASH`, `BOT_TOKEN`, `PHONE_NO`, can be passed as CLI options, or can be set as environment variables.
+## Repl
 
-Provide either `BOT_TOKEN` or `PHONE_NO`. If both are found, `tg-login` will use the bot account.
+You may run this `tg-login` online by using this repl.
 
-`tg-login` by default generates the session string and saves it in your Telegram's Saved Messages.
+[![run on repl](https://docs.replit.com/images/repls/run-on-replit.svg)](https://replit.com/@aahnik/tg-login)
 
-If the `--session=file` option is provided, it will generated a session file. -->
+Note:
+
+- A python virtual environment is created before execution and deleted post execution.
+- All sensitive user input is hidden.
+- The session string is not printed on screen, but sent to user.
