@@ -1,6 +1,6 @@
 # tg-login
 
-A command line tool to login into Telegram with user or bot accounts.
+A command line tool to login into Telegram with user or bot accounts and generate session string.
 
 ## Installation
 
