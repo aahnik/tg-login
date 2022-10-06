@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tg-login"
-version = "0.0.2"
+version = "0.0.3"
 description = "A command line tool to login into Telegram with user or bot accounts."
 authors = ["aahnik <daw@aahnik.dev>"]
 license = "MIT"
