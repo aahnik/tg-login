@@ -15,7 +15,7 @@ Telethon = "^1.25.1"
 typer = "^0.7.0"
 
 [tool.poetry.dev-dependencies]
-black = "^20.8b1"
+black = "^24.3"
 pytest = "^6.2.3"
 tox = "^3.23.0"
 pylint = "^2.7.4"
