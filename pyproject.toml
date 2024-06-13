@@ -10,7 +10,7 @@ repository = "https://github.com/aahnik/tg-login"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-python-dotenv = "^0.21.0"
+python-dotenv = ">=0.21,<1.1"
 Telethon = "^1.25.1"
 typer = ">=0.7,<0.13"
 
