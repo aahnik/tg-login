@@ -16,7 +16,7 @@ typer = "^0.7.0"
 
 [tool.poetry.dev-dependencies]
 black = "^24.3"
-pytest = "^6.2.3"
+pytest = "^8.2.2"
 tox = "^4.15.1"
 pylint = "^2.7.4"
 isort = "^5.8.0"
