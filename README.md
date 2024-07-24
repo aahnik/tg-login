@@ -4,8 +4,11 @@ A command line tool to login into Telegram with user or bot accounts and generat
 
 ## Installation
 
+We recommend using [pipx](https://github.com/pypa/pipx) for install tg-login
+
 ```shell
-pip install tg-login
+pip install pipx # install pipx first
+pipx install tg-login # for dependancy isolation
 ```
 
 ## Usage
