@@ -1,3 +1,8 @@
+# Important message
+
+## This fork is no longer maintained, you can use a simple script that does the job: [telogin](https://github.com/tzagim/telogin)
+
+
 # tg-login
 
 A command line tool to login into Telegram with user or bot accounts and generate session string.
