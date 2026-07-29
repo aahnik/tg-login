@@ -42,7 +42,7 @@ def login(API_ID, API_HASH):
                     f"Are you sure your username is {uname} ? Press ENTER to continue. The session string will be sent to you."
                 )
                 client.send_message(uname, message)
-                print(f"The session string has been succesfully sent to {uname}")
+                print(f"The session string has been successfully sent to {uname}")
             else:
                 print(
                     "The username you typed second time did not match with the first time! Quitting.\n\n You can start again!"
